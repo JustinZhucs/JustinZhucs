@@ -2,10 +2,10 @@
   <img src="https://github.com/JustinZhucs/JustinZhucs/blob/main/name.svg" alt="Justin Zhu" />
 </h1>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> A little more about me...  
 
 ```javascript
-const thai = {
+const justin = {
   pronouns: "he" | "his",
   university: "University of Waterloo",
   major: "Computer Science",
