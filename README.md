@@ -27,11 +27,6 @@ const justin = {
 }
 ```
 
-👇 Hit in your console or terminal to connect with me.
-
-```bash
-npx justinzhu
-```
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 
@@ -49,4 +44,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+👇 Hit in your console or terminal to connect with me.
+
+```bash
+npx justinzhu
+```
 -->
