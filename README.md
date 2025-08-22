@@ -6,7 +6,7 @@
 
 [![Linkedin: Justin Zhu](https://img.shields.io/badge/-linkedin:justin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/chenshuo-zhu/)
 ![GitHub followers](https://img.shields.io/github/followers/JustinZhucs?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&https://personal-site-justin.vercel.app/)](https://personal-site-justin.vercel.app/)
+[![personal site](https://img.shields.io/badge/portfolio-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&https://personal-site-justin.vercel.app/)](https://personal-site-justin.vercel.app/)
 
 
 
