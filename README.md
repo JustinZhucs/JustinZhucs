@@ -15,8 +15,10 @@
 ```javascript
 const justin = {
   pronouns: "he" | "his",
-  university: "University of Waterloo",
-  major: "Computer Science '28",
+  university: {
+                  name: "University of Waterloo",
+                  major: "Computer Science '28"
+              },
   code: [C/C++, Javascript/Typescript, Python, C#, Bash, SQL,
           HTML, CSS, Java, PHP],
   frameworks & tools: [React, Next, Tailwind, Node, Spring Boot,
