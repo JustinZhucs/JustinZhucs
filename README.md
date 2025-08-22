@@ -33,8 +33,7 @@ const justin = {
 
 ![snake gif](https://github.com/JustinZhucs/JustinZhucs/blob/output/github-snake-dark.svg)
 
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b></em>
 
 
 
@@ -57,4 +56,6 @@ Here are some ideas to get you started:
 ```bash
 npx justinzhu
 ```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 -->
